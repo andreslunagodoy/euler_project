@@ -28,13 +28,13 @@ Project Euler provides challenging mathematical and computational problems. Solv
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/andreslunagodoy/ProjectEuler.git
+git clone https://github.com/andreslunagodoy/euler_project.git
 ```
 
 2. Open a notebook from inside the `notebooks/` folder (the notebooks use relative paths to `../util` and `files/`):
 
 ```bash
-cd ProjectEuler/notebooks
+cd euler_project/notebooks
 jupyter notebook
 ```
 
