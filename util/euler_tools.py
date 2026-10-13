@@ -13,6 +13,7 @@ def is_prime_aux(n):
                 return True
             elif n % j == 0:
                 return False
+        print(f"{n} is beyond the range of my_list_of_primes")
 
 my_list_of_primes = [2,3]
 n = 1
